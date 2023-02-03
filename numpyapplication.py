@@ -8,7 +8,7 @@ sampleList = [69, 96]
 
 # Put your numbers here
 
-randomNumberList = choice(sampleList, 69, p=[0.6, 0.4])
+randomNumberList = choice(sampleList, 69, p=[0.69, 0.31])
 
 # Run your list (sequence , count answer, p = probability of each number)
 
